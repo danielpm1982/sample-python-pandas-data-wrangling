@@ -1,0 +1,14 @@
+name: /home/daniel/anaconda-workspace/sample-python-pandas-data-wrangling/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - python
+  - jupyterlab
+  - seaborn
+  - xlrd
+prefix: /home/daniel/anaconda-workspace/sample-python-pandas-data-wrangling/env
