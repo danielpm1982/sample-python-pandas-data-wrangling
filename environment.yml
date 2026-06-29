@@ -11,4 +11,5 @@ dependencies:
   - jupyterlab
   - seaborn
   - xlrd
+  - openpyxl
 prefix: /home/daniel/anaconda-workspace/sample-python-pandas-data-wrangling/env
